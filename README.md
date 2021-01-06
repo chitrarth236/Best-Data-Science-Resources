@@ -11,3 +11,6 @@ Compiled list of some important and amazing data science resources
 ## Computer Vision
 
 [ Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
+## Deep Learning
+[Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
