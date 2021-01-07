@@ -12,5 +12,7 @@ Compiled list of some important and amazing data science resources
 
 [ Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+[PyImageSearch Blog](https://www.pyimagesearch.com/blog/)
+
 ## Deep Learning
 [Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
