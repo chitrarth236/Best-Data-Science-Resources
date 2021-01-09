@@ -18,3 +18,7 @@ Compiled list of some important and amazing data science resources
 
 ## Deep Learning
 [Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+## Machine Learning
+
+[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
