@@ -8,6 +8,8 @@ Compiled list of some important and amazing data science resources
 
 [Sebastian Ruder's Blog](https://ruder.io/)
 
+[NLTK Documentation](https://www.nltk.org/)
+
 ## Computer Vision
 
 [ Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
