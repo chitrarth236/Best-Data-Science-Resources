@@ -22,3 +22,7 @@ Compiled list of some important and amazing data science resources
 ## Machine Learning
 
 [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+## Books
+
+[An Introduction to Statistical Learning with Applications in R](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
