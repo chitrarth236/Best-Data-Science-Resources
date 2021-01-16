@@ -6,6 +6,8 @@ Compiled list of some important and amazing data science resources
 
 [CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/)
 
+[CS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+
 [Sebastian Ruder's Blog](https://ruder.io/)
 
 [NLTK Documentation](https://www.nltk.org/)
