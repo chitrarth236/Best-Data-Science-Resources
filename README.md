@@ -12,6 +12,8 @@ Compiled list of some important and amazing data science resources
 
 [NLTK Documentation](https://www.nltk.org/)
 
+[Kaggle Micro Course on NLP](https://www.kaggle.com/learn/natural-language-processing)
+
 ## Computer Vision
 
 [ Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
