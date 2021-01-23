@@ -34,3 +34,7 @@ Compiled list of some important and amazing data science resources
 [An Introduction to Statistical Learning with Applications in R](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+## SQL
+
+[SQL w3schools](https://www.w3schools.com/sql/)
