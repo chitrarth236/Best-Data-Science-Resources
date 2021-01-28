@@ -38,4 +38,5 @@ Compiled list of some important and amazing data science resources
 ## SQL
 
 [SQL w3schools](https://www.w3schools.com/sql/)
+
 [SQL Bolt](https://sqlbolt.com/)
