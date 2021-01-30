@@ -29,6 +29,8 @@ Compiled list of some important and amazing data science resources
 
 [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
+[Machine Learning Course - CS 156 (Caltech)](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+
 ## Books
 
 [An Introduction to Statistical Learning with Applications in R](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
