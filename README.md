@@ -42,3 +42,5 @@ Compiled list of some important and amazing data science resources
 [SQL w3schools](https://www.w3schools.com/sql/)
 
 [SQL Bolt](https://sqlbolt.com/)
+
+[Kaggle SQL Course](https://www.kaggle.com/learn/overview)
