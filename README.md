@@ -21,7 +21,7 @@ Compiled list of some important and amazing data science resources
 [PyImageSearch Blog](https://www.pyimagesearch.com/blog/)
 
 ## Deep Learning
-[Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
 
 [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
@@ -36,6 +36,8 @@ Compiled list of some important and amazing data science resources
 [An Introduction to Statistical Learning with Applications in R](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+[Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
 ## SQL
 
