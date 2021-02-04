@@ -31,6 +31,8 @@ Compiled list of some important and amazing data science resources
 
 [Machine Learning Course - CS 156 (Caltech)](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
+[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+
 ## Books
 
 [An Introduction to Statistical Learning with Applications in R](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
